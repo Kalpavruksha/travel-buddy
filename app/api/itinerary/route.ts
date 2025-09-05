@@ -38,7 +38,7 @@ Travel Details:
 - Number of travelers: ${travelers}
 - Interests: ${Object.keys(interests).filter(key => interests[key]).join(', ')}
 
-Available Forts: ${fortsData.map(fort => `${fort.name} (${fort.distance}, ${fort.timing})`).join(', ')}
+Available Forts: ${fortsData.map((fort: any) => `${fort.name} (${fort.distance}, ${fort.timing})`).join(', ')}
 
 Requirements:
 - Create a day-by-day itinerary with specific timings
@@ -77,7 +77,7 @@ Keep the response focused and practical.`;
         try {
           const result = await model.generateContent(prompt);
           // Fixed response extraction method
-          const responseText = result.response.candidates[0]?.content?.parts[0]?.text || "";
+          const responseText = result.response.candidates?.[0]?.content?.parts?.[0]?.text || "";
           
           // Try to extract JSON from the response
           try {
@@ -107,8 +107,8 @@ Keep the response focused and practical.`;
             }
             response = { error: 'Failed to parse AI response', rawResponse: responseText };
           }
-        } catch (apiError) {
-          if (apiError.message.includes('503 Service Unavailable') && retries > 1) {
+        } catch (apiError: any) {
+          if (apiError.message?.includes('503 Service Unavailable') && retries > 1) {
             console.log(`Gemini API overloaded, retrying... (${retries - 1} attempts left)`);
             await new Promise(resolve => setTimeout(resolve, 2000)); // Wait 2 seconds before retry
             retries--;
@@ -163,10 +163,10 @@ Keep the response focused and practical.`;
       timestamp: new Date().toISOString()
     });
     
-  } catch (error) {
+  } catch (error: any) {
     console.error('Itinerary generation error:', error);
     return NextResponse.json(
-      { error: 'Failed to generate itinerary', details: error.message },
+      { error: 'Failed to generate itinerary', details: error.message || 'Unknown error occurred' },
       { status: 500 }
     );
   }

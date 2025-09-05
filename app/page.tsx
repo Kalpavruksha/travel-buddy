@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from 'react';
-import { MapPin, Calendar, Camera, Bot, Shield, Crown, Mountain } from 'lucide-react';
+import { MapPin, Bot, Calendar } from 'lucide-react';
 import FortCard from '@components/FortCard';
 import FeatureCard from '@components/FeatureCard';
 import Navbar from '@components/Navbar';

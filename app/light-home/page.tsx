@@ -8,7 +8,7 @@ import Navbar from '@components/Navbar';
 import TravelBot from '@components/TravelBot';
 
 export default function LightHomePage() {
-  const [isMounted, setIsMounted] = useState(false);
+  const [_isMounted, setIsMounted] = useState(false);
   
   useEffect(() => {
     setIsMounted(true);
@@ -18,7 +18,7 @@ export default function LightHomePage() {
     window.location.href = '/forts';
   };
 
-  const handlePlanTrip = () => {
+  const _handlePlanTrip = () => {
     window.location.href = '/itinerary';
   };
 

@@ -1,6 +1,6 @@
 // Database service for Next.js API routes
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
 // Fort class
 class Fort {
@@ -234,5 +234,5 @@ class DatabaseService {
 
 // Export a singleton instance
 const databaseService = new DatabaseService();
-module.exports = databaseService;
-module.exports.databaseService = databaseService;
+export { databaseService };
+export default databaseService;

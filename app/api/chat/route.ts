@@ -1,6 +1,5 @@
 import { NextResponse } from 'next/server';
 import { GoogleGenerativeAI } from '@google/generative-ai';
-import { databaseService } from '../../services/databaseService';
 
 // Initialize AI client
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || '');
@@ -44,8 +43,8 @@ Please provide a helpful, unique response:`;
       
       console.log('Calling Gemini API...');
       const result = await model.generateContent(dynamicPrompt);
-      // Fixed response extraction method
-      response = result.response.candidates[0]?.content?.parts[0]?.text || "";
+      // Fixed response extraction method with proper type checking
+      response = result.response.candidates?.[0]?.content?.parts?.[0]?.text || "";
       console.log('Gemini API response successful');
     } catch (geminiError) {
       console.error('Gemini API error:', geminiError);

@@ -252,8 +252,8 @@ const SimpleFortMap = () => {
                 </button>
                 <button
                   onClick={() => openInGoogleMaps(
-                    forts.find(f => f.id === selectedFort)?.coordinates, 
-                    forts.find(f => f.id === selectedFort)?.name
+                    forts.find(f => f.id === selectedFort)?.coordinates || { lat: 0, lng: 0 }, 
+                    forts.find(f => f.id === selectedFort)?.name || ''
                   )}
                   className="py-2 px-4 bg-white text-blue-600 text-sm font-medium rounded-lg border border-blue-600 hover:bg-blue-50 transition-colors flex items-center justify-center gap-1"
                 >

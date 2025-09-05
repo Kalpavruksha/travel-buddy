@@ -455,7 +455,7 @@ export default function ItineraryPage() {
           ) : (
             <div className="bg-white rounded-2xl shadow-xl p-8 text-center">
               <h2 className="text-3xl font-bold text-gray-900 mb-8">Your Personalized Itinerary</h2>
-              <p className="text-gray-600 mb-8">Click "Generate AI Itinerary" above to create your custom travel plan based on your preferences.</p>
+              <p className="text-gray-600 mb-8">Click &quot;Generate AI Itinerary&quot; above to create your custom travel plan based on your preferences.</p>
               
               {/* Sample Preview */}
               <div className="bg-blue-50 rounded-xl p-6 max-w-2xl mx-auto">

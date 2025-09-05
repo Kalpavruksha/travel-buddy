@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from 'react';
-import { Search, MapPin, Clock, Ticket, Star, Bot, Shield, Crown, Mountain, TreePine, Waypoints, Map, ExternalLink, Camera, MountainIcon, X, Info, Calendar, Users, DollarSign, Navigation, Castle } from 'lucide-react';
+import { Search, MapPin, Clock, Ticket, Star, Bot, Castle, Map, Calendar, Info, Navigation, X, Mountain, Users } from 'lucide-react';
 import Navbar from '@components/Navbar';
 import TravelBot from '@components/TravelBot';
 import SimpleFortMap from '@components/SimpleFortMap';
@@ -474,7 +474,7 @@ export default function FortsPage() {
                   )}
                   {selectedFort.altitude && (
                     <div className="flex items-center gap-2">
-                      <MountainIcon size={20} className="text-orange-600" />
+                      <Mountain size={20} className="text-orange-600" />
                       <span className="font-medium">Altitude:</span>
                       <span>{selectedFort.altitude}</span>
                     </div>
