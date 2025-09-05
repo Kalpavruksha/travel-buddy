@@ -11,9 +11,5 @@
       "src": "/(.*)",
       "dest": "/"
     }
-  ],
-  "env": {
-    "GEMINI_API_KEY": "@gemini-api-key",
-    "OPENAI_API_KEY": "@openai-api-key"
-  }
+  ]
 }
