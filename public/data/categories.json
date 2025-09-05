@@ -1,0 +1,108 @@
+{
+  "trekDifficulty": [
+    {
+      "level": "Easy",
+      "description": "Suitable for beginners, well-marked paths, minimal climbing",
+      "duration": "1-3 hours",
+      "requirements": "Basic fitness level",
+      "examples": ["Pargad Fort", "Shivgad Fort"]
+    },
+    {
+      "level": "Easy to Moderate",
+      "description": "Some climbing required, moderate fitness needed",
+      "duration": "2-4 hours", 
+      "requirements": "Regular walking/exercise routine",
+      "examples": ["Panhala Fort", "Bavda Fort"]
+    },
+    {
+      "level": "Moderate",
+      "description": "Steep sections, good fitness required, some rock climbing",
+      "duration": "3-5 hours",
+      "requirements": "Good fitness level, trekking experience helpful",
+      "examples": ["Pratapgad Fort"]
+    },
+    {
+      "level": "Moderate to Challenging",
+      "description": "Demanding trek, steep climbs, technical sections",
+      "duration": "4-6 hours",
+      "requirements": "Very good fitness, prior trekking experience",
+      "examples": ["Vishalgad Fort"]
+    },
+    {
+      "level": "Challenging",
+      "description": "Very demanding, technical climbing, high endurance needed",
+      "duration": "5-8 hours",
+      "requirements": "Excellent fitness, extensive trekking experience",
+      "examples": ["Raigad Fort (if trekking instead of ropeway)"]
+    }
+  ],
+  "seasons": [
+    {
+      "season": "Winter",
+      "months": "October to February",
+      "description": "Best time for trekking, pleasant weather, clear views",
+      "temperature": "15-25°C",
+      "pros": ["Perfect weather", "Clear visibility", "Comfortable trekking"],
+      "cons": ["Peak season crowds", "Higher accommodation prices"]
+    },
+    {
+      "season": "Summer", 
+      "months": "March to May",
+      "description": "Hot during day, early morning treks recommended",
+      "temperature": "25-40°C",
+      "pros": ["Less crowded", "Lower prices", "Good for experienced trekkers"],
+      "cons": ["Very hot", "Dehydration risk", "Limited visibility due to haze"]
+    },
+    {
+      "season": "Monsoon",
+      "months": "June to September", 
+      "description": "Heavy rainfall, lush greenery, slippery paths",
+      "temperature": "20-30°C",
+      "pros": ["Beautiful scenery", "Waterfalls", "Cool weather"],
+      "cons": ["Slippery trails", "Limited visibility", "Trek cancellations"]
+    }
+  ],
+  "fortTypes": [
+    {
+      "type": "Hill Fort",
+      "description": "Built on hilltops for strategic advantage",
+      "characteristics": ["Elevated position", "Natural defenses", "Panoramic views"],
+      "examples": ["Panhala Fort", "Pratapgad Fort", "Raigad Fort"]
+    },
+    {
+      "type": "Sea Fort",
+      "description": "Coastal forts for naval defense",
+      "characteristics": ["Coastal location", "Naval strategic importance", "Trade route control"],
+      "examples": ["Sindhudurg Fort (nearby)"]
+    },
+    {
+      "type": "Land Fort",
+      "description": "Plains-based forts for territorial control",
+      "characteristics": ["Ground level", "Trade route control", "Administrative centers"],
+      "examples": ["Bavda Fort"]
+    }
+  ],
+  "historicalPeriods": [
+    {
+      "period": "Shilahara Dynasty",
+      "years": "765-1215 CE",
+      "description": "Early fort builders in the region",
+      "significance": "Foundation of many fort structures",
+      "examples": ["Panhala Fort (original construction)"]
+    },
+    {
+      "period": "Maratha Empire",
+      "years": "1674-1818 CE", 
+      "description": "Golden age of fort development under Shivaji",
+      "significance": "Strategic expansion and strengthening of forts",
+      "examples": ["Raigad Fort", "Pratapgad Fort", "Vishalgad Fort"]
+    },
+    {
+      "period": "Adilshahi Sultanate",
+      "years": "1490-1686 CE",
+      "description": "Rival power to Marathas",
+      "significance": "Many battles fought for fort control",
+      "examples": ["Various siege battles"]
+    }
+  ]
+}

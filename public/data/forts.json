@@ -1,0 +1,274 @@
+[
+  {
+    "id": "panhala",
+    "name": "Panhala Fort",
+    "location": "Panhala, Kolhapur",
+    "coordinates": { "lat": 16.8053, "lng": 74.1055 },
+    "distance": "20 km from Kolhapur city",
+    "timing": "6:00 AM - 6:00 PM",
+    "entryFee": "₹15 per person",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1609137144813-7d9921338f24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1611605645802-c21be743c321?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    "description": "Built in 1178 by the Shilahara dynasty, later strengthened by Chhatrapati Shivaji Maharaj. It was Shivaji's favorite fort and served as a strategic military base.",
+    "highlights": [
+      "Teen Darwaza - The iconic three gates",
+      "Sajja Kothi - The prison with unique acoustic design",
+      "Andhar Bavadi - The mysterious underground well",
+      "Kali temple with beautiful architecture"
+    ],
+    "bestTime": "October to February",
+    "trekDifficulty": "Easy to moderate",
+    "nearbyAttractions": ["Panhala Ghat", "Rankala Lake", "Mahalaxmi Temple"],
+    "transport": {
+      "bus": "Regular ST buses from Kolhapur (₹50-70 one way)",
+      "taxi": "Private taxi (₹500-700 round trip)",
+      "bike": "Bike rental (₹800-1200/day)"
+    },
+    "accommodation": [
+      { "name": "MTDC Resort Panhala", "price": "₹1200-2500/night", "distance": "2 km" },
+      { "name": "Hotel Panhala", "price": "₹800-1500/night", "distance": "3 km" }
+    ],
+    "tags": ["heritage", "trekking", "photography", "history", "shivaji"],
+    "rating": 4.5,
+    "reviews": 1247
+  },
+  {
+    "id": "pratapgad",
+    "name": "Pratapgad Fort",
+    "location": "Satara district",
+    "coordinates": { "lat": 17.8892, "lng": 73.5678 },
+    "distance": "32 km from Kolhapur city",
+    "timing": "7:00 AM - 6:00 PM",
+    "entryFee": "₹25 per person",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1605538883669-825200433431?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1611432579402-7037e3e2c1e4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1570197788417-0e82375c9371?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1605538883669-825200433431?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    "description": "Built by Shivaji in 1656, famous for the historic meeting between Shivaji and Afzal Khan in 1659, which resulted in Afzal Khan's death.",
+    "highlights": [
+      "Afzal Khan's tomb",
+      "Bhavani temple",
+      "Memorial of the historic encounter",
+      "Scenic viewpoints overlooking the valley"
+    ],
+    "bestTime": "October to March",
+    "trekDifficulty": "Moderate",
+    "nearbyAttractions": ["Mahabaleshwar", "Panchgani", "Kaas Plateau"],
+    "transport": {
+      "bus": "Bus to Satara, then local transport (2-3 hours total)",
+      "taxi": "Private taxi (₹1200-1800 round trip)",
+      "bike": "Bike rental (₹1200-1800/day)"
+    },
+    "accommodation": [
+      { "name": "MTDC Resort Mahabaleshwar", "price": "₹2000-4000/night", "distance": "25 km" },
+      { "name": "Pratapgad Homestay", "price": "₹1200-2000/night", "distance": "8 km" }
+    ],
+    "tags": ["heritage", "trekking", "history", "afzal khan", "shivaji"],
+    "rating": 4.6,
+    "reviews": 892
+  },
+  {
+    "id": "raigad",
+    "name": "Raigad Fort",
+    "location": "Raigad district",
+    "coordinates": { "lat": 18.2492, "lng": 73.3148 },
+    "distance": "120 km from Kolhapur (2.5 hours)",
+    "timing": "8:00 AM - 5:00 PM",
+    "entryFee": "₹30 per person",
+    "ropewayFee": "₹95 adults, ₹75 children",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1506097425191-7ad538b29a4f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    "description": "Capital of the Maratha Empire under Shivaji. Site of Shivaji's coronation in 1674. Features a modern ropeway for easy access.",
+    "highlights": [
+      "Shivaji's coronation site",
+      "Maha Darwaza - Main entrance",
+      "Takmak Tok - Execution point",
+      "Palace ruins and ropeway journey"
+    ],
+    "bestTime": "October to March",
+    "trekDifficulty": "Easy (ropeway) / Challenging (trek)",
+    "nearbyAttractions": ["Torna Fort", "Sinhagad Fort", "Mahad"],
+    "transport": {
+      "bus": "Bus to Mahad, then local transport (3-4 hours total)",
+      "taxi": "Private taxi (₹2500-3500 round trip)",
+      "bike": "Bike rental (₹2000-3000/day)"
+    },
+    "accommodation": [
+      { "name": "MTDC Holiday Resort", "price": "₹2500-4500/night", "distance": "5 km" },
+      { "name": "Raigad Heritage Hotel", "price": "₹1800-3200/night", "distance": "8 km" }
+    ],
+    "tags": ["heritage", "ropeway", "coronation", "shivaji", "capital"],
+    "rating": 4.7,
+    "reviews": 2156
+  },
+  {
+    "id": "vishalgad",
+    "name": "Vishalgad Fort",
+    "location": "Kolhapur-Belgaum highway",
+    "coordinates": { "lat": 16.9082, "lng": 73.7437 },
+    "distance": "76 km from Kolhapur city",
+    "timing": "Sunrise to Sunset",
+    "entryFee": "Free",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1611605645802-c21be743c321?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1609137144813-7d9921338f24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    "description": "Associated with Baji Prabhu Deshpande's heroic sacrifice. Offers spectacular sunrise/sunset views and challenging trekking through Western Ghats.",
+    "highlights": [
+      "Baji Prabhu Deshpande Memorial",
+      "Spectacular sunrise and sunset views",
+      "Trekking trails through scenic landscapes",
+      "Panoramic views of Western Ghats"
+    ],
+    "bestTime": "October to March",
+    "trekDifficulty": "Moderate to challenging",
+    "nearbyAttractions": ["Amboli Ghat", "Gaganbawda", "Sawantwadi"],
+    "transport": {
+      "bus": "Bus via Kolhapur-Belgaum highway (2.5-3 hours)",
+      "taxi": "Private taxi (₹1200-1800 round trip)",
+      "bike": "Bike rental (₹1500-2200/day)"
+    },
+    "accommodation": [
+      { "name": "Vishalgad Eco Resort", "price": "₹2000-3500/night", "distance": "15 km" },
+      { "name": "Forest Rest House", "price": "₹800-1500/night", "distance": "8 km" }
+    ],
+    "tags": ["heritage", "trekking", "baji prabhu", "sunrise", "western ghats"],
+    "rating": 4.4,
+    "reviews": 673
+  },
+  {
+    "id": "bavda",
+    "name": "Bavda Fort",
+    "location": "Near Kolhapur city",
+    "coordinates": { "lat": 16.7500, "lng": 74.0833 },
+    "distance": "35 km from Kolhapur city",
+    "timing": "Dawn to Dusk",
+    "entryFee": "Free",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1611605645802-c21be743c321?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1609137144813-7d9921338f24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    "description": "A lesser-known fort with ancient rock-cut caves and peaceful trekking experience away from crowds, offering beautiful valley views.",
+    "highlights": [
+      "Ancient rock-cut caves",
+      "Panoramic views of Sahyadri range",
+      "Peaceful trekking trails",
+      "Photography opportunities"
+    ],
+    "bestTime": "November to February",
+    "trekDifficulty": "Easy to moderate",
+    "nearbyAttractions": ["Rankala Lake", "Mahalaxmi Temple", "Kolhapur City"],
+    "transport": {
+      "car": "Private vehicle recommended (1 hour drive)",
+      "taxi": "Private taxi (₹600-1000 round trip)",
+      "bike": "Bike rental (₹600-900/day)"
+    },
+    "accommodation": [
+      { "name": "Bavda Retreat", "price": "₹1200-2000/night", "distance": "8 km" },
+      { "name": "Kolhapur Comfort Inn", "price": "₹1000-1800/night", "distance": "30 km" }
+    ],
+    "tags": ["caves", "trekking", "peaceful", "photography", "offbeat"],
+    "rating": 4.2,
+    "reviews": 234
+  },
+  {
+    "id": "pargad",
+    "name": "Pargad Fort",
+    "location": "Chandgad, near Kolhapur",
+    "coordinates": { "lat": 15.8165, "lng": 74.0456 },
+    "distance": "28 km south of Chandgad",
+    "timing": "Dawn to Dusk",
+    "entryFee": "Free",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1605538883669-825200433431?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1611432579402-7037e3e2c1e4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1570197788417-0e82375c9371?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    "description": "A serene fort with a Shivaji statue and temple. Built by the Marathas, offering peaceful environment with historical significance.",
+    "highlights": [
+      "Shivaji statue and temple",
+      "Peaceful environment",
+      "Historical significance",
+      "Scenic views"
+    ],
+    "bestTime": "October to March",
+    "trekDifficulty": "Easy",
+    "nearbyAttractions": ["Chandgad", "Rankala Lake", "Mahalaxmi Temple"],
+    "transport": {
+      "bus": "Local buses to Chandgad (1.5-2 hours), then local transport",
+      "taxi": "Private taxi (₹700-1200 round trip)",
+      "bike": "Bike rental (₹700-1100/day)"
+    },
+    "accommodation": [
+      { "name": "Chandgad Heritage Hotel", "price": "₹1000-1800/night", "distance": "10 km" },
+      { "name": "Pargad View Resort", "price": "₹1500-2500/night", "distance": "5 km" }
+    ],
+    "tags": ["heritage", "temple", "peaceful", "shivaji", "easy trek"],
+    "rating": 4.1,
+    "reviews": 156
+  },
+  {
+    "id": "shivgad",
+    "name": "Shivgad Fort",
+    "location": "Phonda Ghat, near Kolhapur",
+    "coordinates": { "lat": 15.5000, "lng": 74.1000 },
+    "distance": "89 km from Kolhapur city",
+    "altitude": "728 meters above sea level",
+    "timing": "Dawn to Dusk",
+    "entryFee": "Free",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1506097425191-7ad538b29a4f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    "description": "A watchtower fort over Phonda Ghat, surrounded by forest. Strategic observation point offering panoramic views of surrounding landscape.",
+    "highlights": [
+      "Watchtower structure",
+      "Forest surroundings",
+      "Panoramic views",
+      "Easy trekking trails"
+    ],
+    "bestTime": "October to March",
+    "trekDifficulty": "Easy",
+    "nearbyAttractions": ["Phonda Ghat", "Amboli Ghat", "Nagaon Beach"],
+    "transport": {
+      "bus": "Bus to Phonda Ghat (3-4 hours), then local transport",
+      "taxi": "Private taxi (₹2000-3000 round trip)",
+      "bike": "Bike rental (₹2500-3500/day)"
+    },
+    "accommodation": [
+      { "name": "Phonda Forest Lodge", "price": "₹2000-3500/night", "distance": "15 km" },
+      { "name": "Amboli Eco Resort", "price": "₹2500-4000/night", "distance": "25 km" }
+    ],
+    "tags": ["watchtower", "forest", "panoramic views", "easy trek"],
+    "rating": 4.0,
+    "reviews": 87
+  }
+]

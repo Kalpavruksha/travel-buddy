@@ -1,0 +1,127 @@
+{
+  "generalTips": [
+    {
+      "category": "Safety",
+      "tips": [
+        "Always inform someone about your trekking plans and expected return time",
+        "Carry a first aid kit and know basic first aid procedures",
+        "Check weather conditions before starting your trek",
+        "Never trek alone, especially on challenging routes",
+        "Carry emergency contact numbers and ensure phone battery is full",
+        "Be aware of wildlife in forested areas",
+        "Stay on marked trails and don't take shortcuts"
+      ]
+    },
+    {
+      "category": "Equipment",
+      "tips": [
+        "Wear comfortable, sturdy trekking shoes with good grip",
+        "Carry sufficient water (2-3 liters per person for day treks)",
+        "Pack energy snacks like nuts, chocolates, and fruits",
+        "Bring a hat and sunglasses for sun protection",
+        "Carry a flashlight or headlamp with extra batteries",
+        "Pack a rain jacket or poncho during monsoon season",
+        "Use a comfortable backpack with padded straps"
+      ]
+    },
+    {
+      "category": "Photography",
+      "tips": [
+        "Golden hour (sunrise/sunset) provides the best lighting for fort photography",
+        "Bring extra batteries and memory cards",
+        "Use a tripod for stable shots, especially in low light",
+        "Capture architectural details like carvings and stonework",
+        "Include people in shots to show scale of massive structures",
+        "Take panoramic shots from viewpoints to show surrounding landscape",
+        "Respect photography restrictions in religious areas"
+      ]
+    },
+    {
+      "category": "Environmental",
+      "tips": [
+        "Follow Leave No Trace principles - pack out all trash",
+        "Don't disturb wildlife or damage vegetation",
+        "Use designated toilet facilities or dig cat holes away from water sources",
+        "Don't light fires in restricted areas",
+        "Respect local communities and their property",
+        "Don't remove artifacts or stones from historical sites",
+        "Use eco-friendly products and minimize plastic usage"
+      ]
+    }
+  ],
+  "seasonalTips": {
+    "winter": [
+      "Pack warm layers for early morning and evening temperatures",
+      "Start early to make the most of daylight hours",
+      "Expect crowds at popular forts on weekends",
+      "Book accommodation in advance during peak season",
+      "Carry sunscreen even in winter - UV rays are strong at altitude"
+    ],
+    "summer": [
+      "Start very early (before sunrise) to avoid heat",
+      "Carry electrolyte supplements to prevent dehydration",
+      "Wear light-colored, loose-fitting clothing",
+      "Take frequent breaks in shade",
+      "Avoid trekking during peak hours (11 AM - 4 PM)"
+    ],
+    "monsoon": [
+      "Check for trek advisories and possible cancellations",
+      "Carry waterproof gear for equipment protection",
+      "Wear shoes with excellent grip - paths become very slippery",
+      "Be extra cautious near cliff edges and steep sections",
+      "Enjoy the beautiful greenery but be prepared for leeches"
+    ]
+  },
+  "fortSpecificTips": {
+    "panhala": [
+      "Visit Teen Darwaza during early morning for best lighting",
+      "Explore Sajja Kothi's acoustic features by speaking softly",
+      "Don't miss the underground chambers near Andhar Bavadi",
+      "Try local Kolhapuri cuisine at nearby restaurants"
+    ],
+    "pratapgad": [
+      "Spend time at Afzal Khan's tomb to appreciate Islamic architecture",
+      "Visit the Bhavani temple for spiritual experience",
+      "Best photography at the memorial during golden hour",
+      "Carry warm clothes as it gets windy at the top"
+    ],
+    "raigad": [
+      "Book ropeway tickets online during peak season",
+      "If trekking, start very early - it's a challenging climb",
+      "Spend adequate time at the coronation site",
+      "Don't get too close to edges at Takmak Tok"
+    ],
+    "vishalgad": [
+      "This is a challenging trek - ensure good fitness level",
+      "Start before dawn to catch spectacular sunrise",
+      "Carry plenty of water - limited sources available",
+      "Respect the memorial sites and maintain silence"
+    ]
+  },
+  "budgetTips": [
+    "Travel in groups to share transportation costs",
+    "Consider staying in government guest houses or MTDC resorts for budget accommodation",
+    "Pack lunch and snacks to save on food costs", 
+    "Use public transport where available instead of private taxis",
+    "Visit during weekdays for lower accommodation rates",
+    "Book accommodations in advance for better deals",
+    "Consider bike rentals for budget-friendly transport"
+  ],
+  "culturalTips": [
+    "Dress modestly, especially when visiting temples within forts",
+    "Remove shoes before entering temple areas",
+    "Learn basic Marathi phrases - locals appreciate the effort",
+    "Respect local customs and traditions",
+    "Don't point feet toward temples or religious structures",
+    "Ask permission before photographing local people",
+    "Show respect at memorial sites and maintain appropriate behavior"
+  ],
+  "emergencyContacts": {
+    "police": "100",
+    "ambulance": "108", 
+    "fire": "101",
+    "touristHelpline": "1363",
+    "kolhapurPolice": "+91-231-2521394",
+    "kolhapurDistrict": "+91-231-2521001"
+  }
+}

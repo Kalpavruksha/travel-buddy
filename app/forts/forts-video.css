@@ -1,0 +1,25 @@
+/* Video background for forts page hero section */
+.forts-video-bg {
+  position: relative;
+  overflow: hidden;
+}
+
+.forts-video-bg video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.forts-video-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(12, 74, 110, 0.75), rgba(12, 74, 110, 0.85));
+  z-index: 1;
+}
